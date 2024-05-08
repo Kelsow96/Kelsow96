@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hello! My name is Kelsey, an IT Professional and welcome to my GitHub page!👋
 
 <!--
 **Kelsow96/Kelsow96** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
