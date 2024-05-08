@@ -1,4 +1,4 @@
-<h1>Hello! My name is Kelsey, an <a href="www.linkedin.com/in/kelseyworkman">IT Professional</a> and welcome to my GitHub page!👋 <h1>
+<h1>Hello! My name is Kelsey, an <a href="https://linkedin.com/in/kelseyworkman">IT Professional</a> and welcome to my GitHub page!👋 <h1>
 
 <h2>👨‍💻 Information Technology Projects:</h2>
 
