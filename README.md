@@ -4,7 +4,7 @@
 
 - <b> Creating VMs in Azure and Observing Network Traffic </b>
     - [Creating VM's in Azure (Windows 10 and Linx)](https://github.com/Kelsow96/Creating-VM-s-in-Azure-Windows-10-and-Linx-)
-    - [Observing Network Traffic Between the Two VMs Using Wireshark]
+    - [Observing Network Traffic Between the Two VMs Using Wireshark](https://github.com/Kelsow96/Observing-Network-Traffic-Between-the-Two-VMs-Using-Wireshark)
 - <b> osTicket (Help Desk Ticketing System) </b>
     - [osTicket: Prerequisites and Installation](https://github.com/Kelsow96/osticket-prereqs)
     - [osTicket: Post-Installation Configuration](https://github.com/Kelsow96/post-install-config)
