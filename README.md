@@ -4,7 +4,7 @@
 
 - <b> Microsoft Azure </b>
     - [Creating VM's in Azure (Windows 10 and Linux)](https://github.com/Kelsow96/Creating-VM-s-in-Azure-Windows-10-and-Linux-)
-    - [Network Security Groups (NSGs) and Inspecting Network Protocols](https://github.com/Kelsow96/Network-Security-Groups-NSGs-and-Observing-Network-Traffic)
+    - [Network Security Groups (NSGs) and Observing Network Traffic](https://github.com/Kelsow96/Network-Security-Groups-NSGs-and-Observing-Network-Traffic)
       
 - <b> osTicket (Help Desk Ticketing System) </b>
     - [osTicket: Prerequisites and Installation](https://github.com/Kelsow96/osticket-prereqs)
