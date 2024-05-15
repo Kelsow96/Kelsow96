@@ -2,16 +2,14 @@
 
 <h2> 👨‍💻 CourseCareers Information Technology Projects: </h2>
 
-- <b> Creating VMs in Azure and Observing Network Traffic </b>
+- <b> Microsoft Azure </b>
     - [Creating VM's in Azure (Windows 10 and Linux)](https://github.com/Kelsow96/Creating-VM-s-in-Azure-Windows-10-and-Linux-)
-    - [Observing Network Traffic Between the Two VMs Using Wireshark](https://github.com/Kelsow96/Observing-Network-Traffic-Between-the-Two-VMs-Using-Wireshark)
+    - [Network Security Groups (NSGs) and Inspecting Network Protocols](https://github.com/Kelsow96/azure-network-protocols)
+      
 - <b> osTicket (Help Desk Ticketing System) </b>
     - [osTicket: Prerequisites and Installation](https://github.com/Kelsow96/osticket-prereqs)
     - [osTicket: Post-Installation Configuration](https://github.com/Kelsow96/post-install-config)
     - [osTicket: Ticket Lifecycle Examples](https://github.com/Kelsow96/ticket-lifecycle)
-- <b> Microsoft Azure </b>
-    - [Configuring On-premises Active Directory within Azure VMs](https://github.com/Kelsow96/configure-ad)
-    - [Network Security Groups (NSGs) and Inspecting Network Protocols](https://github.com/Kelsow96/azure-network-protocols)
 
 <h2> 🤳Connect with me: </h2>
 
