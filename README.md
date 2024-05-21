@@ -6,6 +6,7 @@
     - [Creating VM's in Azure (Windows 10 and Linux)](https://github.com/Kelsow96/Creating-VM-s-in-Azure-Windows-10-and-Linux-)
     - [Network Security Groups (NSGs) and Observing Network Traffic](https://github.com/Kelsow96/Network-Security-Groups-NSGs-and-Observing-Network-Traffic)
     - [Virtual Private Network (VPNs)](https://github.com/Kelsow96/VIrtual-Private-Networks)
+    - [Deploying Active Directory and Creating Users](https://github.com/Kelsow96/Deploying-Active-Directory)
       
 - <b> osTicket (Help Desk Ticketing System) </b>
     - [osTicket: Prerequisites and Installation](https://github.com/Kelsow96/osticket-prereqs)
