@@ -8,6 +8,7 @@
     - [Virtual Private Network (VPNs)](https://github.com/Kelsow96/VIrtual-Private-Networks)
     - [Implementing Active Directory (On-Premises) in Azure](https://github.com/Kelsow96/-Implementing-Active-Directory-On-Premises-in-Azure)
     - [Building Intuition for DNS](https://github.com/Kelsow96/Building-Intuition-for-DNS)
+    - [Network Files Shares and Permissions](https://github.com/Kelsow96/Network-Files-Shares-and-Permissions)
 
 <h2> 🤳 Connect with me: </h2>
 
