@@ -10,6 +10,9 @@
     - [Building Intuition for DNS](https://github.com/Kelsow96/Building-Intuition-for-DNS)
     - [Network Files Shares and Permissions](https://github.com/Kelsow96/Network-Files-Shares-and-Permissions)
 
+- <b> osTicket </b>
+    - [osTicket Installation](https://github.com/Kelsow96/osTicket-Installation)
+  
 <h2> 🤳 Connect with me: </h2>
 
 [<img align="left" alt="Kelsey | Instagram" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />][instagram]
