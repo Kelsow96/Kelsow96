@@ -10,7 +10,7 @@
     - [Building Intuition for DNS](https://github.com/Kelsow96/Building-Intuition-for-DNS)
     - [Network Files Shares and Permissions](https://github.com/Kelsow96/Network-Files-Shares-and-Permissions)
 
-- <b> osTicket </b>
+- <b> osTicket (Work in Progress Project) </b>
     - [osTicket Installation](https://github.com/Kelsow96/osTicket-Installation)
   
 <h2> 🤳 Connect with me: </h2>
